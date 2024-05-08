@@ -54,6 +54,6 @@ require (
 	lukechampine.com/blake3 v1.3.0 // indirect
 )
 
-replace github.com/sagernet/sing-shadowsocks v0.2.6 => github.com/tim06/sing-shadowsocks v0.0.72
+replace github.com/sagernet/sing-shadowsocks v0.2.6 => github.com/tim06/sing-shadowsocks v0.0.68
 
 replace github.com/xtls/xray-core v1.8.10 => github.com/tim06/xray-core v0.0.96

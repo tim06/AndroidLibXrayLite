@@ -154,8 +154,8 @@ github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
-github.com/tim06/sing-shadowsocks v0.0.76 h1:PIMvRy+jpDAybH+7xXqUlmwffxKquK/XSrz2Z9D6X3g=
-github.com/tim06/sing-shadowsocks v0.0.76/go.mod h1:rTobApzTyi+XwcDtWI/cF59p/p4wATtNmYy6/9ZYXXY=
+github.com/tim06/sing-shadowsocks v0.0.68 h1:+xuf3CZEQLO0m1axUXlmHdB9lYRMBXi/iUVLw5SF/RE=
+github.com/tim06/sing-shadowsocks v0.0.68/go.mod h1:rTobApzTyi+XwcDtWI/cF59p/p4wATtNmYy6/9ZYXXY=
 github.com/tim06/xray-core v0.0.96 h1:YGDQRvTjT4REu1cEngO0Oe4OZmSNpBwpXpS9R0BBpuM=
 github.com/tim06/xray-core v0.0.96/go.mod h1:ftStJcr3sOSihDAeAFD15sz468YpK+Phg3DArZABTsg=
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF8gHIiADmOVOV5LS43gt3ONnlEl3xkwI=
