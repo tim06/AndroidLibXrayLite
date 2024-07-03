@@ -10,7 +10,8 @@ require (
 
 require (
 	github.com/andybalholm/brotli v1.1.0 // indirect
-	github.com/cloudflare/circl v1.3.7 // indirect
+	github.com/beevik/ntp v1.4.1 // indirect
+	github.com/cloudflare/circl v1.3.8 // indirect
 	github.com/dgryski/go-metro v0.0.0-20211217172704-adc40b04c140 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
 	github.com/ghodss/yaml v1.0.1-0.20220118164431-d8423dcdf344 // indirect
@@ -52,3 +53,7 @@ require (
 	gvisor.dev/gvisor v0.0.0-20231104011432-48a6d7d5bd0b // indirect
 	lukechampine.com/blake3 v1.2.1 // indirect
 )
+
+replace github.com/sagernet/sing-shadowsocks v0.2.6 => github.com/tim06/sing-shadowsocks v0.1.0
+
+replace github.com/xtls/xray-core v1.8.10 => github.com/tim06/xray-core v0.1.0
