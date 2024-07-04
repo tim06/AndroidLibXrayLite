@@ -56,4 +56,4 @@ require (
 
 replace github.com/sagernet/sing-shadowsocks v0.2.6 => github.com/tim06/sing-shadowsocks v0.1.0
 
-replace github.com/xtls/xray-core v1.8.10 => github.com/tim06/xray-core v0.1.0
+replace github.com/xtls/xray-core v1.8.11 => github.com/tim06/xray-core v0.1.1
