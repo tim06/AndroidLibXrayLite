@@ -167,7 +167,7 @@ func (v *V2RayPoint) pointloop() error {
 }
 
 func (v *V2RayPoint) MeasureDelay(url string) (int64, error) {
-	ctx, cancel := context.WithTimeout(context.Background(), 12*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), 2*time.Second)
 
 	go func() {
 		select {
@@ -271,7 +271,7 @@ func measureInstDelay(ctx context.Context, inst *v2core.Instance, url string) (i
 
 	c := &http.Client{
 		Transport: tr,
-		Timeout:   12 * time.Second,
+		Timeout:   2 * time.Second,
 	}
 
 	if len(url) <= 0 {
