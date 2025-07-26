@@ -5,7 +5,7 @@ go 1.24
 toolchain go1.24.0
 
 require (
-	github.com/xtls/xray-core v1.250608.1-0.20250724021908-4f45c5faa5f1
+	github.com/xtls/xray-core v1.250725.0
 	golang.org/x/mobile v0.0.0-20250106192035-c31d5b91ecc3
 	golang.org/x/sys v0.34.0
 )
