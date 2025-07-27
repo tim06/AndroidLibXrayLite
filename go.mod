@@ -5,13 +5,12 @@ go 1.24
 toolchain go1.24.0
 
 require (
-	github.com/xtls/xray-core v1.250725.0
+	github.com/xtls/xray-core v1.250726.0
 	golang.org/x/mobile v0.0.0-20250106192035-c31d5b91ecc3
 	golang.org/x/sys v0.34.0
 )
 
 require (
-	github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0 // indirect
 	github.com/andybalholm/brotli v1.1.1 // indirect
 	github.com/cloudflare/circl v1.6.1 // indirect
 	github.com/dgryski/go-metro v0.0.0-20250106013310-edb8663e5e33 // indirect
@@ -22,6 +21,7 @@ require (
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
 	github.com/kr/text v0.2.0 // indirect
+	github.com/miekg/dns v1.1.67 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pires/go-proxyproto v0.8.1 // indirect
 	github.com/quic-go/qpack v0.5.1 // indirect
@@ -35,7 +35,7 @@ require (
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e // indirect
 	github.com/vishvananda/netlink v1.3.1 // indirect
 	github.com/vishvananda/netns v0.0.5 // indirect
-	github.com/xtls/reality v0.0.0-20250723121014-c6320729d93b // indirect
+	github.com/xtls/reality v0.0.0-20250725142056-5b52a03d4fb7 // indirect
 	go.uber.org/mock v0.5.0 // indirect
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
 	golang.org/x/crypto v0.40.0 // indirect
