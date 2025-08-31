@@ -51,7 +51,7 @@ jobs:
          cp -v data/*.dat assets/
          gomobile init
          go mod tidy
-         gomobile bind -v -androidapi 21 -trimpath -ldflags='-s -w -buildid= -extldflags=-Wl,-z,max-page-size=16384\ -Wl,-z,common-page-size=16384' ./
+         gomobile bind -v -androidapi 21 -trimpath -ldflags='-s -w -buildid= -extldflags=-Wl,-z,max-page-size=16384,common-page-size=16384' ./
       env:
         ANDROID_NDK_HOME: ${{ steps.setup-ndk.outputs.ndk-path }}
 
